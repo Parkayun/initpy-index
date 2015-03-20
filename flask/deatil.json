@@ -1,7 +1,7 @@
 {
     "name": "flask",
     "desc": "basic flask skeleton",
-    'author": "Ayun Park",
+    "author": "Ayun Park",
     "email": "iampakrayun@gmail.com",
 
     "repo": "https://github.com/devhot/initpy-flask",
